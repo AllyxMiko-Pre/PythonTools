@@ -9,3 +9,4 @@
 print("这是一个测试项目")
 print("cehis")
 print("cesoiww")
+print("23")
